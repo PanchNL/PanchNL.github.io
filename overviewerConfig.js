@@ -5,12 +5,12 @@ var overviewerConfig = {
     "tilesets": [
         {
             "spawn": [
-                -240, 
-                80, 
-                256
+                -931, 
+                76, 
+                1144
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1439649097, 
+            "last_rendertime": 1439821371, 
             "name": "Overviewer Render (lighting)", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -60,6 +60,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1439755462"
+        "cacheTag": "1439821653"
     }
 };
